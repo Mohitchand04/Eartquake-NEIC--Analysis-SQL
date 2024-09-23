@@ -25,3 +25,6 @@ Magnitude: The magnitude of the earthquake.
 Magnitude Type: The scale used to measure the magnitude (e.g., Richter, Moment Magnitude).
 Source: The reporting agency or entity.
 Status: The status of the earthquake report (e.g., reviewed, automatic).
+
+**NOTE**
+The queries in this project is written in Bigquery so if some query doesn't work in MySQL make sure to check the alternative syntax for SQL for the same.
